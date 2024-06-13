@@ -1,7 +1,7 @@
 ### Hi there
 [My Projects](https://drive.google.com/drive/folders/1toyXwU8kmklRaxDvRxysZGIBsgUfikwm?usp=sharing)
 
-[My TestCases](https://github.com/RyotaYamaguci/RyotaYamaguci/blob/main/TestCases)
+[My TestCases](https://github.com/RyotaYamaguci/RyotaYamaguci/tree/main/TestCases)
 
 [My Bug Reports](https://drive.google.com/drive/folders/1CpmA6cgwEb6MfR86hZaYZCp6fQ5DdkOr?usp=sharing)
 
